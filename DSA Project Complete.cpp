@@ -38,8 +38,8 @@ class DSA_proj{
 		}                
 	DSA_proj(){
 		cout<<"\t\t\tDATA STRUCTURE AND ALORITHUM\n\n";
-		cout<<"\t\t\tCLASS : BSCS 3RD\n";
-		cout<<"\t\t\tNAME  : ROZEENA KHALID\n";
+		cout<<"\t\t\tCLASS : \n";
+		cout<<"\t\t\tNAME  : \n";
 		cout<<"\t\t\tMISID : \n\n ";
 		cout<<"\t\t\tDSA LAB PROJECT\n\n";
 		cout<<"1)DATA STRUCTURE OF AN ARRAY\n";
